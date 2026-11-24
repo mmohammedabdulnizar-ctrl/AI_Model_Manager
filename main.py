@@ -19,3 +19,4 @@ manager.remove_models("Llama")
 
 manager.display_models()
 
+manager.count_models()

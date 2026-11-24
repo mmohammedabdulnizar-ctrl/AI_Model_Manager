@@ -55,3 +55,5 @@ class  modelManager:
                 
         print("model not found")
         
+    def count_models(self):
+        print("Total available models:", len(self.models))
